@@ -1,0 +1,2 @@
+!function(){const e=document.querySelector(".nav-bar__breadcrumb"),c=document.querySelector(".overlay");e.addEventListener("click",(function(e){e.currentTarget.classList.toggle("nav-bar__breadcrumb--cancel"),c.classList.toggle("hidden")})),c.addEventListener("click",(function(){e.classList.toggle("nav-bar__breadcrumb--cancel"),this.classList.toggle("hidden")}))}();
+//# sourceMappingURL=zuri.HASH_REF_82a4dc4fe39314c943b93e80544d7705.js.map
