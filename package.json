@@ -2,7 +2,7 @@
   "name": "zuri-responsive",
   "version": "1.0.0",
   "description": "",
-  "main": "zuri.html",
+  "main": "index.html",
   "scripts": {
     "start": "parcel zuri.html",
     "build": "parcel build zuri.html"
